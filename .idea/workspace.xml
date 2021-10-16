@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="flappy-bird:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de395c20-8d4e-4395-a06f-40a4ee74dff5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j7BPLN4UIctbC1acKczTpTyWT4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.mitzillfi.flappy" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Parib\Desktop\flappy-bird\src\main\resources" />
+      <recent name="C:\Users\Parib\Desktop\flappy-bird\src\main\java\com\mitzillfi\flappy" />
+      <recent name="C:\Users\Parib\Desktop\flappy-bird\src\main\resources\com.mitzillfi.flappy" />
+      <recent name="C:\Users\Parib\Desktop\flappy-bird\src\main\resources\com.mitzillfi.flappy\sprites" />
+      <recent name="C:\Users\Parib\Desktop\flappy-bird\src\main\resources\sprites" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mitzillfi.flappy.App" />
+      <module name="flappy-bird" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flappy-bird-1.0-SNAPSHOT-tests.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/flappy-bird-1.0-SNAPSHOT-tests.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flappy-bird-1.0-SNAPSHOT.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/flappy-bird-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JAR Application.flappy-bird-1.0-SNAPSHOT.jar" />
+      <item itemvalue="JAR Application.flappy-bird-1.0-SNAPSHOT-tests.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JAR Application.flappy-bird-1.0-SNAPSHOT-tests.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de395c20-8d4e-4395-a06f-40a4ee74dff5" name="Default Changelist" comment="" />
+      <created>1603145224699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603145224699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="6" key="#Project_Structure" timestamp="1603145278282">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1603145278282" />
+    <state x="223" y="87" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604793047942">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604793047942" />
+    <state x="223" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1603412696651" />
+    <state x="532" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603149393818">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="532" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1603149393818" />
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1603481023657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603481023657" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1603480988074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1603480988074" />
+    <state x="498" y="246" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604792894452">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="246" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604792894452" />
+    <state x="551" y="301" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603598799811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="551" y="301" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1603598799811" />
+    <state width="1493" height="116" key="GridCell.Tab.0.bottom" timestamp="1604793444543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1603487891182" />
+    <state width="1493" height="116" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604793444543" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603598958776" />
+    <state width="1493" height="116" key="GridCell.Tab.0.center" timestamp="1604793444543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1603487891182" />
+    <state width="1493" height="116" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604793444543" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603598958776" />
+    <state width="1493" height="116" key="GridCell.Tab.0.left" timestamp="1604793444543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1603487891182" />
+    <state width="1493" height="116" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604793444543" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603598958775" />
+    <state width="1493" height="116" key="GridCell.Tab.0.right" timestamp="1604793444543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1603487891182" />
+    <state width="1493" height="116" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604793444543" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603598958776" />
+    <state width="1493" height="87" key="GridCell.Tab.1.bottom" timestamp="1603482696971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603482696971" />
+    <state width="1493" height="87" key="GridCell.Tab.1.center" timestamp="1603482696971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1603482696971" />
+    <state width="1493" height="87" key="GridCell.Tab.1.left" timestamp="1603482696971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1603482696971" />
+    <state width="1493" height="87" key="GridCell.Tab.1.right" timestamp="1603482696971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1603482696971" />
+    <state x="277" y="13" key="SettingsEditor" timestamp="1604792959754">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="13" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604792959754" />
+    <state x="277" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603410366547" />
+    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1603597725113">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1603597725113" />
+    <state x="129" y="65" width="1350" height="882" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603432618550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="129" y="65" width="1350" height="882" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1603432618550" />
+    <state x="315" y="168" width="905" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603216640183">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="315" y="168" width="905" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1603216640183" />
+    <state x="479" y="31" width="578" height="801" key="find.popup" timestamp="1603598892060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="479" y="31" width="578" height="801" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1603598892060" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1603408059241">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1603408059241" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1603431437999">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1603431437999" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flappy_bird$Main.ic" NAME="Main Coverage Results" MODIFIED="1603317225882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
